@@ -3,3 +3,6 @@ Bu repository aracılığı ile dersimiz kapsamında yaptığımız çalışmala
 ## LAB - Etkinlik 01
 **Açıklama:** Bu programımızda pyhton programlama dilindeki aritmetik işleçlerin (operatörlerin) kullanımını kullanıcıdan iki sayı isteyerek gösterdik.<br><br>
 **Program:** [Programa ulaşmak için tıklayınız.](https://github.com/AhmetDemirtas303/BTY2028PGA-Lab-Etkinlikleri/blob/main/Lab01_aritmetikislec.py)
+## LAB - Etkinlik 02
+**Açıklama:** Bu programımızda pyhton programlama dilindeki mantıksal operatörlerin kullanımını kullanıcıdan iki sayı isteyerek gösterdik.<br><br>
+**Program:** [Programa ulaşmak için tıklayınız.](https://github.com/AhmetDemirtas303/BTY2028PGA-Lab-Etkinlikleri/blob/main/Lab01_aritmetikislec.py)
